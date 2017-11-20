@@ -27,8 +27,26 @@
     display: block;
     margin: auto;
     width: 40%;
+    padding-top: 120px;
+}
+#about-text {
+    text-align: center;
+    padding: 50px;
 }
 
+#projects {
+    padding: 50px;
+    padding-top: 100px;
+}
+
+#contactme {
+    height: 200px;
+}
+
+.contact-info {
+    text-align: center;
+    padding:10px;
+}
 /* Footer CSS */
 
 
