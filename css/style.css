@@ -38,13 +38,10 @@ h1, h2, h3, h4, h5, p, .caption {
     font-family: 'Montserrat', sans-serif;
 }
 
-#carousel {
-    display: block;
-    margin: auto;
-    width: 100%;
-    height: 500px;
-    padding: 100px;
+.thumbnail {
+    height: 450px;
 }
+
 .modal-photos {
     height:200px;
     width:200px;
