@@ -14,22 +14,3 @@
 // *************************** YOUR CODE BELOW *******************************
 //******************TEST EARLY AND OFTEN USING console.log() ******************
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
-
-
-// Create your potrfolio object representation below
-
-
-
-
-
-
-
-// Use Jquery to update your HTML using your object. Don't forget the Document Ready function. 
-
-
-
-
-
-
-
-// Add your click handler below to update your like counters when the like buttons are clicked. 
